@@ -1,0 +1,16 @@
+{
+    "name": "GDUPI",
+    "short_name": "GDUPI",
+    "description": "join the redactedness of gdupi: a vibecoin born from art, memes, and community.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#97E5D7",
+    "theme_color": "#62A7E9",
+    "icons": [
+      {
+        "src": "/OG/32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ]
+  }

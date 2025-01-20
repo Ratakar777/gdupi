@@ -1,0 +1,180 @@
+Uri: https://gdupi.art/
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\index.htm
+Content Type: text/html
+
+Uri: https://gdupi.art/favicon.ico
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://gdupi.art/GDUPINOMICS/gdupinomics1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\GDUPINOMICS\gdupinomics1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/GDUPINOMICS/gdupinomics2.webp
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\GDUPINOMICS\gdupinomics2.webp
+Content Type: image/webp
+
+Uri: https://gdupi.art/GDUPINOMICS/gdupinomics3.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\GDUPINOMICS\gdupinomics3.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HEADER/header1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HEADER\header1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HEADER/header2.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HEADER\header2.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HOWTO/how_to_buy1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HOWTO/how_to_buy2.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy2.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HOWTO/how_to_buy3.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy3.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HOWTO/how_to_buy4.webp
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy4.webp
+Content Type: image/webp
+
+Uri: https://gdupi.art/HOWTO/how_to_buy5.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy5.png
+Content Type: image/png
+
+Uri: https://gdupi.art/HOWTO/how_to_buy6.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\HOWTO\how_to_buy6.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main2.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main2.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main3_blue.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main3_blue.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main3_logo.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main3_logo.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main4.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main4.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main5.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main5.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main6.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main6.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MAIN/main7.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MAIN\main7.png
+Content Type: image/png
+
+Uri: https://gdupi.art/manifest.json
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\manifest.json
+Content Type: application/json
+
+Uri: https://gdupi.art/MEETTHE/meet_the_artist1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MEETTHE\meet_the_artist1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MEETTHE/meet_the_artist2.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MEETTHE\meet_the_artist2.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MEETTHE/meet_the_artist3.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MEETTHE\meet_the_artist3.png
+Content Type: image/png
+
+Uri: https://gdupi.art/MEETTHE/meet_the_artist4.webp
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\MEETTHE\meet_the_artist4.webp
+Content Type: image/webp
+
+Uri: https://gdupi.art/OG/16x16.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\OG\16x16.png
+Content Type: image/png
+
+Uri: https://gdupi.art/OG/180x180.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\OG\180x180.png
+Content Type: image/png
+
+Uri: https://gdupi.art/OG/32x32.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\OG\32x32.png
+Content Type: image/png
+
+Uri: https://gdupi.art/OG/favicon.ico
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\OG\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://gdupi.art/REDACTED/redacted1.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\REDACTED\redacted1.png
+Content Type: image/png
+
+Uri: https://gdupi.art/REDACTED/redacted2.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\REDACTED\redacted2.png
+Content Type: image/png
+
+Uri: https://gdupi.art/REDACTED/redacted3.png
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\REDACTED\redacted3.png
+Content Type: image/png
+
+Uri: https://gdupi.art/_next/static/chunks/264-5efdc3231d44e775.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\264-5efdc3231d44e775.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/4bd1b696-b42c874a1b64058b.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\4bd1b696-b42c874a1b64058b.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/517-e97dbfadff49cb72.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\517-e97dbfadff49cb72.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/app/layout-559af1a856c65c11.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\app\layout-559af1a856c65c11.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/app/not-found-1660308f1059950e.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\app\not-found-1660308f1059950e.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/app/page-a3405c40b4f1caf4.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\app\page-a3405c40b4f1caf4.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/main-app-239fc0cc716759c7.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\main-app-239fc0cc716759c7.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/chunks/webpack-4078f7fd3ad33398.js?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\chunks\webpack-4078f7fd3ad33398.js
+Content Type: application/javascript
+
+Uri: https://gdupi.art/_next/static/css/8be37a91ec237f8f.css?dpl=dpl_4AykxCMyLnxjH9q6TnJfXoDjCemi
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\css\8be37a91ec237f8f.css
+Content Type: text/css
+
+Uri: https://gdupi.art/_next/static/media/90034bfb4413ddac-s.p.ttf
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\_next\static\media\90034bfb4413ddac-s.p.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VZ9ECWXHVS
+File Name: C:\work\Downloaded Web Sites\17.01\gdupi\gdupi.art\gtag\js
+Content Type: application/javascript
+
